@@ -1,8 +1,8 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cmpute&show_icons=true&theme=synthwave">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cmpute&show_icons=true&theme=codeSTACKr&hide_rank=true">
 </a>
 
-# [Jacob Zhong](zyxin.xyz)
+# [Jacob Zhong](https://zyxin.xyz)
 
 > Passionate Engineer.
 
@@ -13,4 +13,7 @@
 ![](https://img.shields.io/badge/-Rust-f74c00?style=flat-square&logo=Rust&logoColor=000)
 ![](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=fff)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmpute&layout=compact&theme=codeSTACKr">
+
 - ✒ My Blog: [zh](https://zyxin.xyz/blog/) / [en](https://zyxin.xyz/blog/en/)
+
